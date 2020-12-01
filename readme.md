@@ -6,12 +6,12 @@ This repo contains a Javascript script that will solve a geetest slider captcha.
 
 ## Getting started
 
-To install all dependencies run
+To install all dependencies:
 ```
 npm i
 ```
 
-To run the program run
+To run the program:
 ```
 node index.js
 ```
